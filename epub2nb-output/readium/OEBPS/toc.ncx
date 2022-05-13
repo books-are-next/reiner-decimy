@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="469554fb-9671-48c8-abe5-f9efca6d2c1e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Decimy; Poslední rok</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DECIMY (1992–1995)</text>
+      </navLabel>
+      <content src="Text/decimy_posledni_rok_005.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Pěvec</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>(Vlásek po vlásku tě uklízím ze života)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Rožně</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Mezi námi</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Poslední služba</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Život je</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Nedělní odpoledne po kopané</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Drobné spory</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Okno</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Hon</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Hebkost let minulých</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Ty</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Pusté město, pustý sad</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Mezi námi — Lisabon</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Tvá píseň</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Herna Úsvit</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Starej trik s chrámem panny Rejčky</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Tvá perspektiva</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Noční hovory</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Výroky</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Sen</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>(Myslím zas na kořínky)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Budoucí něha</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Čaj o páté</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Konec léta na rybím trhu</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Hromádka v lebce mé…</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>(Přijel jsem ráno, a jsem tu na zapřenou)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>(Světla vozu, hučivé tření nočních pneumatik o asfalt)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Nocturno</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>(Zavoněl koks, na stránkách Šlaráfie)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_035.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>DECIMY (Bonus tracks)</text>
+      </navLabel>
+      <content src="Text/decimy_posledni_rok_036.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>(Byla jsi delikátní snítka bezu)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Doupě literátů</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>(Musím se zmínit o dráze této střely)</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Sobotní ráno</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Dopis č. 47</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_041.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>POSLEDNÍ ROK (1991–1992)</text>
+      </navLabel>
+      <content src="Text/decimy_posledni_rok_042.html"/>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>ITALSKÉ INTERMEZZO</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>EPILOG, PO LETECH</text>
+        </navLabel>
+        <content src="Text/decimy_posledni_rok_075.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
