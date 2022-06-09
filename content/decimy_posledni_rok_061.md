@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -10,4 +11,4 @@ Usazen mezi dva hrby slasti, cítím se požehnán, jako je požehnána tato zem
 
 Bytuji na střechách, plážích a ulicích městečka, jež miluji absurdní láskou, co místo osudových poznání. Grosseto, můj sne, můj přelude, zázraku nového ticha, sklenko vykřičených slastí, prahu, z něhož přepadám zvolna do nicoty…
 
-Point of no return!
+_Point of no return!_

@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -8,7 +9,7 @@ Mrská léta brouk v louži trav a stromů,
 rybí ale trh nevyveden z míry. Neb jesti ďas,  
 jenž pachem svým a hleny způsobuje třas  
 citlivek. Já pouze pevněji sevřu rukojeť idiomů,  
-že jeden tloukl špačky a jiný ubil čas.
+že jeden _tloukl špačky_ a jiný _ubil čas_.
 
 Bufeťák s rybí hlavou prchá tlusté robě,  
 a všechna předsevzetí zas na veliké skobě  
