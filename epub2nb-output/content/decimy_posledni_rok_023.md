@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -15,5 +16,5 @@ z městských krematorií.
 slzy pozůstalých Brno omyjí,  
 až už mně nepůjdou ženy po pyji,  
 protože budu v zemi celý trouchniv,  
-až myšlenky mé budou oděny v sukno niv,  
+až myšlenky mé budou oděny v _sukno niv_,  
 pak z tebe — to si piš! — se ještě rádi napijí.

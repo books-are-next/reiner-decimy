@@ -1,6 +1,6 @@
 ---
+title: DECIMY (Bonus tracks)
 contentType: prose
 ---
 
-# DECIMY  
-(Bonus tracks)
+

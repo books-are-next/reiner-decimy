@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -7,7 +8,7 @@ contentType: prose
 Simoně Cahové
 
 Teď když mám napnutou pleť batolete,  
-pochválen buď Sebamed, a ne báby stoleté,  
+_pochválen buď Sebamed_, a ne báby stoleté,  
 když terče hvězd jsou v jeden slity  
 a Čert vzal všechny jehovity,  
 již bloumali tu po domech —  
