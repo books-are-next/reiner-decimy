@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Budoucí něha
 contentType: prose
 ---
 
-## Budoucí něha
+<section>
 
 Stejně se obracím, ač neměl bych:  
 tu kštice hořícího lesa,  
@@ -16,3 +16,5 @@ Na startu zamával fanynkám Claude Killy,
 teď klouže dolů po sněhu:  
 pomalé obloučky… připrav se na něhu…  
 … až jednou dorazíš k cíli.
+
+</section>

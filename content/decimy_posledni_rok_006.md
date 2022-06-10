@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pěvec
 contentType: prose
 ---
 
-## Pěvec
+<section>
 
 Hosty své večerní odvádí do ticha,  
 vězte však: není to nikterak snadné.  
@@ -16,3 +16,5 @@ vychutná ticho, jež rychle se zadýchá,
 ticho, jež křičí i za dne.  
 Nástroje tasí pak velice ladné…  
 (K ústům rád přikládá u hradeb Jericha.)
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Poslední služba
 contentType: prose
 ---
 
-## Poslední služba
+<section>
 
 J. L.
 
@@ -19,3 +19,5 @@ když s tebou do nebe půjdu já?!
 tak jako v květnu ’91 v Grossetu,  
 kdy v bezmezné touze po letu  
 hltal jsem všechny tvé temnější stránky.)
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "Čaj o\_páté"
 contentType: prose
 ---
 
-## Čaj o páté
+<section>
 
 Vidím tvá červená ústa rozesmátá,  
 leží v nich pepř a máta.  
@@ -15,3 +15,5 @@ vyrůstá tu. Neboť je pět a
 všechno trochu oněmělo.  
 Soumraku laurem zdobí moje čelo  
 bzučící vestálka ghetta.
+
+</section>

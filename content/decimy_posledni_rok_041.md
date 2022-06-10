@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Dopis č\. 47
 contentType: prose
 ---
 
-## Dopis č. 47
+<section>
 
 K. B.
 
@@ -17,3 +17,5 @@ Chtěl bych Ti říct_, sorry I never told you
 _a konečně všechno vyjevit, přinést na  
 podnose, jenže já vždycky všechno  
 řekl hned, víš, že Tě chci, co k tomu dodat?
+
+</section>

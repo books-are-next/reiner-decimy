@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Zavoněl koks, na stránkách Šlaráfie  
 bájná, ale nad námi doly plné uhlí.  
@@ -16,3 +16,5 @@ Venku koulovačka, a o tu hru je
 zájem: chlapci se trefují do mezičasů —  
 dívky si je zaplétají do vlasů,  
 piští — želízko smrti se kuje.
+
+</section>

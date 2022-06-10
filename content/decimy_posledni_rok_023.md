@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tvá perspektiva
 contentType: prose
 ---
 
-## Tvá perspektiva
+<section>
 
 Ivanu Blatnému
 
@@ -18,3 +18,5 @@ až už mně nepůjdou ženy po pyji,
 protože budu v zemi celý trouchniv,  
 až myšlenky mé budou oděny v _sukno niv_,  
 pak z tebe — to si piš! — se ještě rádi napijí.
+
+</section>

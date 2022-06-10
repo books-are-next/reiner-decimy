@@ -1,9 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Musím se zmínit o dráze této střely:
 
@@ -18,3 +18,5 @@ nakape smutek do očí.
                                  Těsně před probuzením  
 jsem na své svatbě, poprvé se žením —  
 slánka padá ze stolu, roztříští se na kusy.
+
+</section>

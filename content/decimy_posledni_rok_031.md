@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "Hromádka v\_lebce mé…"
 contentType: prose
 ---
 
-## Hromádka v lebce mé…
+<section>
 
 Jiřině Kristové
 
@@ -19,3 +19,5 @@ Průhledných ráčků vyhynulý druh
 sune se pozadu míchou  
 zteplalého vzduchu.  
             (Hromádka v lebce mé plná zlatých much.)
+
+</section>
