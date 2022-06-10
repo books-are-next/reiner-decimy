@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Noční hovory
 contentType: prose
 ---
 
-## Noční hovory
+<section>
 
 Dopil jsem vavřince, polkl sliny sladké.  
 Měsíc plul pomalu ve tvém vlhkém žlábku.  
@@ -16,3 +16,5 @@ Noc, miliony hvězd, stromy třásly se vonět,
 a to byl čas, kdy Potěrbjanské Selo  
 propouštělo do nebes. (Tenkrát se ještě smělo  
 zakopávat pod jabloně.)
+
+</section>

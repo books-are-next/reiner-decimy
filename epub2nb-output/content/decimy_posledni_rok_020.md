@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Tvá píseň
 contentType: prose
 ---
 
-## Tvá píseň
+<section>
 
 Jsi-li shánčivý a přičinlivý, alespoň trochu,  
 pak jistě vesel vrátíš se mi z vřavy.  
@@ -16,3 +16,5 @@ budeme chránit svoje děti chabou mříží z lýka,
 a potom konečně si řeknem, že je pozdě,  
 že je vampýr na kříž přibit, povzdech,  
 a já sama ve snu: Prsty noci uchopená klika.
+
+</section>

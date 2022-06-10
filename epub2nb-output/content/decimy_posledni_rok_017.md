@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Ty
 contentType: prose
 ---
 
-## Ty
+<section>
 
 J. L.
 
@@ -19,3 +19,5 @@ prach na ochoze roztočí se do spirály —
 a bludný mikrocyt zas přivede tě z dáli:
 
 Pro tebe hořím ich, rudý zlata vích!
+
+</section>

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Mezi námi
 contentType: prose
 ---
 
-## Mezi námi
+<section>
 
 Jitce Lit
 
@@ -18,3 +18,5 @@ Stáli jsme přede dveřmi,
 Pak ses ptala: „Pláč, nebo smích?“  
 Ale já se nenamích’  
 a řekl jsem ti: „Věř mi.“
+
+</section>

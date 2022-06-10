@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Výroky
 contentType: prose
 ---
 
-## Výroky
+<section>
 
 Witek Lutoslawski: „Fuj, tady je hic!“  
 (Řek’ údajně, když skládal Koncert wiolonczelowy.)  
@@ -16,3 +16,5 @@ Ale nebylo by fér,
 kdybych tvrdil, že slyšel jsem to na své uši.  
 Jediné, na co dám duši,  
 že z nozder noci tenkrát ukapával thér.
+
+</section>

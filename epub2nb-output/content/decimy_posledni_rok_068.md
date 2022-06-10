@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Buď jaká buď, a tedy: buď jaká jsi.
 
 Buď vlídná a tišící, polib mé rány, obejmi mou třeštící hlavu.
@@ -14,3 +16,5 @@ Přijď! Zavolej! Mysli na mě! Buď! Směj se, zpívej, šeptej, buš do mých 
 Stmívá se, do zahrad se snášejí semínka. Vrátit válec psacího stroje. Uklidit boty. Jíst. Spát.
 
 Čtvrtek zlehounka dovírá dveře půlnoci.
+
+</section>
