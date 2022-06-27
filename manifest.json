@@ -1,0 +1,172 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Decimy; Poslední rok",
+  "author": "Martin Reiner",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "reiner-decimy-posledni-rok-54d346a",
+  "revision": "54d346a",
+  "readingOrder": [
+    "promo.html",
+    "decimy_posledni_rok_005.html",
+    "decimy_posledni_rok_036.html",
+    "decimy_posledni_rok_042.html",
+    "decimy_posledni_rok_056.html",
+    "decimy_posledni_rok_075.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jun 27 2022 10:28:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656325690509
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "decimy_posledni_rok_005.html",
+      "toc": []
+    },
+    {
+      "title": "DECIMY (1992–1995)",
+      "file": "decimy_posledni_rok_005.html",
+      "words": 1965,
+      "chars": 10790,
+      "ideas": 319,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "decimy_posledni_rok_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DECIMY (1992–1995)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DECIMY (Bonus tracks)",
+      "file": "decimy_posledni_rok_036.html",
+      "words": 336,
+      "chars": 1785,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 2,
+      "prev": "decimy_posledni_rok_005.html",
+      "next": "decimy_posledni_rok_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DECIMY (Bonus tracks)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "POSLEDNÍ ROK (1991–1992)",
+      "file": "decimy_posledni_rok_042.html",
+      "words": 1015,
+      "chars": 5991,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 3,
+      "prev": "decimy_posledni_rok_036.html",
+      "next": "decimy_posledni_rok_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POSLEDNÍ ROK (1991–1992)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ITALSKÉ INTERMEZZO",
+      "file": "decimy_posledni_rok_056.html",
+      "words": 1881,
+      "chars": 10997,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 4,
+      "prev": "decimy_posledni_rok_042.html",
+      "next": "decimy_posledni_rok_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ITALSKÉ INTERMEZZO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EPILOG, PO LETECH",
+      "file": "decimy_posledni_rok_075.html",
+      "words": 342,
+      "chars": 2012,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 5,
+      "prev": "decimy_posledni_rok_056.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EPILOG, PO LETECH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 135,
+      "chars": 872,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "decimy_posledni_rok_075.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5681,
+      "chars": 32491,
+      "ideas": 520
+    },
+    "chapters": {
+      "words": 5539,
+      "chars": 31575,
+      "ideas": 500
+    }
+  }
+}

@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Decimy; Poslední rok",
       "identifier": "469554fb-9671-48c8-abe5-f9efca6d2c1e",
       "author": "Martin Reiner",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-10-22T00:00:00.000Z"
+      "modified": "2019-10-22T00:00:00.000Z",
+      "contentType": "poetry",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,62 +24,67 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpdopispodpisi",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev\nmlptirazpodnazev",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "decimy_posledni_rok_001.md",
             "xhtml": "decimy_posledni_rok_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_002.md",
             "xhtml": "decimy_posledni_rok_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_003.md",
             "xhtml": "decimy_posledni_rok_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_004.md",
             "xhtml": "decimy_posledni_rok_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_005.md",
@@ -84,9 +93,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Decimy (1992–1995)"
           },
           {
             "filename": "decimy_posledni_rok_006.md",
@@ -96,8 +107,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pěvec"
           },
           {
             "filename": "decimy_posledni_rok_007.md",
@@ -107,8 +120,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_008.md",
@@ -118,8 +133,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rožně"
           },
           {
             "filename": "decimy_posledni_rok_009.md",
@@ -129,8 +146,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mezi námi"
           },
           {
             "filename": "decimy_posledni_rok_010.md",
@@ -140,8 +159,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poslední služba"
           },
           {
             "filename": "decimy_posledni_rok_011.md",
@@ -151,8 +172,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Život je"
           },
           {
             "filename": "decimy_posledni_rok_012.md",
@@ -162,8 +185,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nedělní odpoledne po kopané"
           },
           {
             "filename": "decimy_posledni_rok_013.md",
@@ -173,8 +198,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Drobné spory"
           },
           {
             "filename": "decimy_posledni_rok_014.md",
@@ -184,8 +211,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Okno"
           },
           {
             "filename": "decimy_posledni_rok_015.md",
@@ -195,8 +224,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hon"
           },
           {
             "filename": "decimy_posledni_rok_016.md",
@@ -206,8 +237,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hebkost let minulých"
           },
           {
             "filename": "decimy_posledni_rok_017.md",
@@ -217,8 +250,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ty"
           },
           {
             "filename": "decimy_posledni_rok_018.md",
@@ -228,8 +263,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pusté město, pustý sad"
           },
           {
             "filename": "decimy_posledni_rok_019.md",
@@ -239,8 +276,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mezi námi — Lisabon"
           },
           {
             "filename": "decimy_posledni_rok_020.md",
@@ -250,8 +289,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tvá píseň"
           },
           {
             "filename": "decimy_posledni_rok_021.md",
@@ -261,8 +302,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Herna Úsvit"
           },
           {
             "filename": "decimy_posledni_rok_022.md",
@@ -272,8 +315,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Starej trik s chrámem panny Rejčky"
           },
           {
             "filename": "decimy_posledni_rok_023.md",
@@ -283,8 +328,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tvá perspektiva"
           },
           {
             "filename": "decimy_posledni_rok_024.md",
@@ -294,8 +341,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Noční hovory"
           },
           {
             "filename": "decimy_posledni_rok_025.md",
@@ -305,8 +354,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Výroky"
           },
           {
             "filename": "decimy_posledni_rok_026.md",
@@ -316,8 +367,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sen"
           },
           {
             "filename": "decimy_posledni_rok_027.md",
@@ -327,8 +380,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_028.md",
@@ -338,8 +393,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Budoucí něha"
           },
           {
             "filename": "decimy_posledni_rok_029.md",
@@ -349,8 +406,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Čaj o páté"
           },
           {
             "filename": "decimy_posledni_rok_030.md",
@@ -360,8 +419,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Konec léta na rybím trhu"
           },
           {
             "filename": "decimy_posledni_rok_031.md",
@@ -371,8 +432,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hromádka v lebce mé…"
           },
           {
             "filename": "decimy_posledni_rok_032.md",
@@ -382,8 +445,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_033.md",
@@ -393,8 +458,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_034.md",
@@ -404,8 +471,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nocturno"
           },
           {
             "filename": "decimy_posledni_rok_035.md",
@@ -415,8 +484,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_036.md",
@@ -425,9 +496,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Decimy (Bonus tracks)"
           },
           {
             "filename": "decimy_posledni_rok_037.md",
@@ -437,8 +510,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_038.md",
@@ -448,8 +523,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Doupě literátů"
           },
           {
             "filename": "decimy_posledni_rok_039.md",
@@ -459,8 +536,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "decimy_posledni_rok_040.md",
@@ -470,8 +549,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sobotní ráno"
           },
           {
             "filename": "decimy_posledni_rok_041.md",
@@ -481,8 +562,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dopis č. 47"
           },
           {
             "filename": "decimy_posledni_rok_042.md",
@@ -491,9 +574,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poslední rok (1991–1992)"
           },
           {
             "filename": "decimy_posledni_rok_043.md",
@@ -503,8 +588,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_044.md",
@@ -514,8 +600,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_045.md",
@@ -525,8 +612,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_046.md",
@@ -536,8 +624,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_047.md",
@@ -547,8 +636,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_048.md",
@@ -558,8 +648,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_049.md",
@@ -569,8 +660,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_050.md",
@@ -580,8 +672,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_051.md",
@@ -591,8 +684,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_052.md",
@@ -602,8 +696,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_053.md",
@@ -613,8 +708,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_054.md",
@@ -624,8 +720,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_055.md",
@@ -635,8 +732,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_056.md",
@@ -645,9 +743,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Italské intermezzo"
           },
           {
             "filename": "decimy_posledni_rok_057.md",
@@ -657,8 +757,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_058.md",
@@ -668,8 +769,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_059.md",
@@ -679,8 +781,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_060.md",
@@ -690,8 +793,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_061.md",
@@ -701,8 +805,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_062.md",
@@ -712,8 +817,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_063.md",
@@ -723,8 +829,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_064.md",
@@ -734,8 +841,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_065.md",
@@ -745,8 +853,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_066.md",
@@ -756,8 +865,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_067.md",
@@ -767,8 +877,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_068.md",
@@ -778,8 +889,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_069.md",
@@ -789,8 +901,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_070.md",
@@ -800,8 +913,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_071.md",
@@ -811,8 +925,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_072.md",
@@ -822,8 +937,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_073.md",
@@ -833,8 +949,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_074.md",
@@ -844,8 +961,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_075.md",
@@ -854,9 +972,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epilog, po letech"
           },
           {
             "filename": "decimy_posledni_rok_076.md",
@@ -866,8 +986,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_077.md",
@@ -877,8 +998,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_078.md",
@@ -888,21 +1010,24 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_079.md",
             "xhtml": "decimy_posledni_rok_079.html",
             "id": 78,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
-            "hungry": false,
+            "inToc": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -1478,6 +1603,6 @@
       "user": "books-are-next",
       "repo": "reiner-decimy"
     },
-    "generatedAt": 1654948782825
+    "generatedAt": 1656325602487
   }
 }
