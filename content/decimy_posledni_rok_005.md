@@ -8,6 +8,8 @@ contentType: poetry
 
 <section>
 
+## Pěvec
+
 Hosty své večerní odvádí do ticha,  
 vězte však: není to nikterak snadné.  
 Ticho je v moři, úplně na dně,  
@@ -23,6 +25,8 @@ Nástroje tasí pak velice ladné…
 </section>
 
 <section>
+
+## \* \* \*
 
 _Kamile Bělunkové_
 
@@ -42,6 +46,8 @@ a bolest pronikla až k míše…
 
 <section>
 
+## Rožně
+
 Obléknu kabát, vyjdu z bytu,  
 venku je chladno, ale jde to.  
 Potkávám bryčku, v níž odjíždí léto.  
@@ -56,6 +62,8 @@ otáčet tělo své kolem nových os.
 </section>
 
 <section>
+
+## Mezi námi
 
 _Jitce Lit_
 
@@ -74,6 +82,8 @@ a řekl jsem ti: „Věř mi.“
 </section>
 
 <section>
+
+## Poslední služba
 
 _J. L._
 
@@ -94,6 +104,8 @@ hltal jsem všechny tvé temnější stránky.)
 
 <section>
 
+## Život je
+
 _K. B._
 
 Je noc. A do tmy zpívá Mark Hollis,  
@@ -110,6 +122,8 @@ sám… tedy bez těla, jež jistě… ale ne vším!
 </section>
 
 <section>
+
+## Nedělní odpoledne po kopané
 
 Hořavy v oknech Kampeličky spoří,  
 seno je malátné. Po římse vraník  
@@ -128,6 +142,8 @@ Pálíme v klíně si slaměný chrám.
 
 <section>
 
+## Drobné spory
+
 _Mé múze_
 
 Popíjím čaj a probírám náměty,  
@@ -145,6 +161,8 @@ sic pudu bydlet zas do sudu!
 
 <section>
 
+## Okno
+
 Ta stará vypadá pořád celkem mladě.  
 Sukni si převléká, chystá se domů.  
 (Ivan Wé řekl by do Mů.)  
@@ -160,6 +178,8 @@ kto volal jeseň s malou silou v hlase.“_
 </section>
 
 <section>
+
+## Hon
 
 _Petře Michaličkové_
 
@@ -179,6 +199,8 @@ v průběhu dlouhého, zimního honu.
 
 <section>
 
+## Hebkost let minulých
+
 _Mirce Havlíkové_
 
 Stojím tu v kalhotách mrtvého kamaráda.  
@@ -195,6 +217,8 @@ Jdou jako kořeny hlouběji do země.
 </section>
 
 <section>
+
+## Ty
 
 _J. L._
 
@@ -215,6 +239,8 @@ Pro tebe hořím ich, rudý zlata vích!
 
 <section>
 
+## Pusté město, pustý sad
+
 _J. L._
 
 Z kamenných nástrojů svívá vítr prach,  
@@ -232,6 +258,8 @@ Polapen při každé z tvých čistek…
 </section>
 
 <section>
+
+## Mezi námi — Lisabon
 
 _J. L._
 
@@ -251,6 +279,8 @@ Ne. Roky míří kupředu, od desíti k pěti…“)
 
 <section>
 
+## Tvá píseň
+
 Jsi-li shánčivý a přičinlivý, alespoň trochu,  
 pak jistě vesel vrátíš se mi z vřavy.  
 A protože tě znám, je už teď čas myslet na oslavy,  
@@ -266,6 +296,8 @@ a já sama ve snu: Prsty noci uchopená klika.
 </section>
 
 <section>
+
+## Herna Úsvit
 
 _Simoně Cahové_
 
@@ -288,6 +320,9 @@ Však trvalý brek ještěrek
 
 <section>
 
+## Starej trik s chrámem  
+panny Rejčky
+
 Projdeš se, Haničko? Pojď.  
 Vezmeme zápalky do tmy u kostela  
 a až po desáté dozní souhra zvonů znělá,  
@@ -304,6 +339,8 @@ Ten chrám panny Rejčky byl jen starej trik.)
 </section>
 
 <section>
+
+## Tvá perspektiva
 
 _Ivanu Blatnému_
 
@@ -323,6 +360,8 @@ pak z tebe — to si piš! — se ještě rádi napijí.
 
 <section>
 
+## Noční hovory
+
 Dopil jsem vavřince, polkl sliny sladké.  
 Měsíc plul pomalu ve tvém vlhkém žlábku.  
 Spatřil jsem v tobě hvězdu jako v jabku.  
@@ -338,6 +377,8 @@ zakopávat pod jabloně.)
 </section>
 
 <section>
+
+## Výroky
 
 Witek Lutoslawski: „Fuj, tady je hic!“  
 (Řek’ údajně, když skládal Koncert wiolonczelowy.)  
@@ -355,6 +396,8 @@ Jediné, na co dám duši,
 
 <section>
 
+## Sen
+
 Bouchly dveře. Odešla Nostalgie —  
 a už mi nevystrojí, jak dříve vystrojila.  
 (Pyžámko v lila,  
@@ -371,6 +414,8 @@ za nocí voraři Oravou ji plaví.)
 
 <section>
 
+## \* \* \*
+
 Myslím zas na kořínky  
 obalené váčky slepené hlíny —  
 v hlubokém hrobě pod tvými mini.  
@@ -385,6 +430,8 @@ Syna nemám. Mám starýho kozla.
 </section>
 
 <section>
+
+## Budoucí něha
 
 Stejně se obracím, ač neměl bych:  
 tu kštice hořícího lesa,  
@@ -402,6 +449,8 @@ pomalé obloučky… připrav se na něhu…
 
 <section>
 
+## Čaj o páté
+
 Vidím tvá červená ústa rozesmátá,  
 leží v nich pepř a máta.  
 Přicházím k tobě krokem pomalým,  
@@ -416,6 +465,8 @@ bzučící vestálka ghetta.
 </section>
 
 <section>
+
+## Konec léta na rybím trhu
 
 Mrská léta brouk v louži trav a stromů,  
 rybí ale trh nevyveden z míry. Neb jesti ďas,  
@@ -432,6 +483,8 @@ Zářivý šperk, jenž krášlí kosti v hrobě!
 </section>
 
 <section>
+
+## Hromádka v lebce mé…
 
 _Jiřině Kristové_
 
@@ -452,6 +505,8 @@ zteplalého vzduchu.
 
 <section>
 
+## \* \* \*
+
 Přijel jsem ráno, a jsem tu na zapřenou.  
 Neví to Kamila, Petra ani Ina.  
 Skelným knůtkem deště sobota vzlíná —  
@@ -467,6 +522,8 @@ Na útlou hromádku hrnu černá smítka:
 </section>
 
 <section>
+
+## \* \* \*
 
 Světla vozu, hučivé tření nočních pneumatik o asfalt.  
 Nade mnou hrad Bítov, tisíc let rozpuštěných v půdě,  
@@ -484,6 +541,8 @@ tělo z křišťálového studu, ale jen zpočátku…
 
 <section>
 
+## Nocturno
+
 Ticho žebrá v noci. A ta natažená ruka,  
 ty prsty na mé mošně vzbouzejí pocit,  
 že tu sám Genius Loci  
@@ -499,6 +558,8 @@ držím tě v zubech jak velikou němkyni.
 </section>
 
 <section>
+
+## \* \* \*
 
 Zavoněl koks, na stránkách Šlaráfie  
 bájná, ale nad námi doly plné uhlí.  
