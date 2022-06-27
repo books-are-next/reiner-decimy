@@ -11,7 +11,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2019-10-22T00:00:00.000Z'
   contentType: poetry
-  edition: beletrie
+  edition: poezie
   publisherShort: mkp
 readingOrder:
   - promo.html

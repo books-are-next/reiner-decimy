@@ -5,11 +5,11 @@
   "title": "Decimy; Poslední rok",
   "author": "Martin Reiner",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-54d346a",
-  "revision": "54d346a",
+  "identifier": "reiner-decimy-posledni-rok-049d7f6",
+  "revision": "049d7f6",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 10:28:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656325690509
+    "date": "Mon Jun 27 2022 10:35:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656326128358
   },
   "documents": [
     {
@@ -160,7 +160,7 @@
   "totals": {
     "all": {
       "words": 5681,
-      "chars": 32491,
+      "chars": 32489,
       "ideas": 520
     },
     "chapters": {
