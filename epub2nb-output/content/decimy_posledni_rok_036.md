@@ -8,6 +8,8 @@ contentType: poetry
 
 <section>
 
+## \* \* \*
+
 Byla jsi delikátní snítka bezu  
 a já byl mlsná huba oře.  
 Potom přišel výnos z konzistoře,  
@@ -24,6 +26,8 @@ Sluníčko v obzoru ulpívá.
 
 <section>
 
+## Doupě literátů
+
 Choval se galantně jako _Pán prstenů_,  
 polibek na krajky a lehká úklona.  
 Dřímal v svém pokoji, když cosi ťuklo na…  
@@ -39,6 +43,8 @@ Stejně v něm číhá kdos jiný.
 </section>
 
 <section>
+
+## \* \* \*
 
 Musím se zmínit o dráze této střely:
 
@@ -58,6 +64,8 @@ slánka padá ze stolu, roztříští se na kusy.
 
 <section>
 
+## Sobotní ráno
+
 _K. B._
 
 Ach, naše setkávání na rohu třetího světa!  
@@ -75,6 +83,8 @@ Zmítají se ve vůni a u velikém jasu!)
 </section>
 
 <section>
+
+## Dopis č. 47
 
 _K. B._
 

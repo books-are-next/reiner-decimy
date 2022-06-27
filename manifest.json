@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-049d7f6",
-  "revision": "049d7f6",
+  "identifier": "reiner-decimy-posledni-rok-660235c",
+  "revision": "660235c",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 10:35:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656326128358
+    "date": "Mon Jun 27 2022 10:50:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656327017774
   },
   "documents": [
     {
@@ -39,9 +39,9 @@
     {
       "title": "DECIMY (1992–1995)",
       "file": "decimy_posledni_rok_005.html",
-      "words": 1965,
-      "chars": 10790,
-      "ideas": 319,
+      "words": 2039,
+      "chars": 11129,
+      "ideas": 350,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -52,16 +52,227 @@
           "level": 1,
           "name": "DECIMY (1992–1995)",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pěvec",
+              "id": "pěvec",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "* * *",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Rožně",
+              "id": "rožně",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Mezi námi",
+              "id": "mezi-námi",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Poslední služba",
+              "id": "poslední-služba",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Život je",
+              "id": "život-je",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Nedělní odpoledne po kopané",
+              "id": "nedělní-odpoledne-ponbspkopané",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Drobné spory",
+              "id": "drobné-spory",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Okno",
+              "id": "okno",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Hon",
+              "id": "hon",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Hebkost let minulých",
+              "id": "hebkost-let-minulých",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Ty",
+              "id": "ty",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Pusté město, pustý sad",
+              "id": "pusté-město-pustý-sad",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Mezi námi — Lisabon",
+              "id": "mezi-námi-lisabon",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Tvá píseň",
+              "id": "tvá-píseň",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Herna Úsvit",
+              "id": "herna-úsvit",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Starej trik s chrámem",
+              "id": "starej-trik-schrámem",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Tvá perspektiva",
+              "id": "tvá-perspektiva",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Noční hovory",
+              "id": "noční-hovory",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "Výroky",
+              "id": "výroky",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "Sen",
+              "id": "sen",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "* * *",
+              "id": "heading-1",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "Budoucí něha",
+              "id": "budoucí-něha",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "Čaj o páté",
+              "id": "čaj-opáté",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "Konec léta na rybím trhu",
+              "id": "konec-léta-nanbsprybím-trhu",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "Hromádka v lebce mé…",
+              "id": "hromádka-vlebce-mé",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "* * *",
+              "id": "heading-2",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "Nocturno",
+              "id": "nocturno",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "* * *",
+              "id": "---1",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "DECIMY (Bonus tracks)",
       "file": "decimy_posledni_rok_036.html",
-      "words": 336,
-      "chars": 1785,
-      "ideas": 54,
+      "words": 349,
+      "chars": 1832,
+      "ideas": 59,
       "role": "chapter",
       "order": 2,
       "prev": "decimy_posledni_rok_005.html",
@@ -72,7 +283,43 @@
           "level": 1,
           "name": "DECIMY (Bonus tracks)",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Doupě literátů",
+              "id": "doupě-literátů",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "* * *",
+              "id": "---1",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Sobotní ráno",
+              "id": "sobotní-ráno",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Dopis č. 47",
+              "id": "dopis-č-47",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -159,14 +406,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5681,
-      "chars": 32489,
-      "ideas": 520
+      "words": 5768,
+      "chars": 32875,
+      "ideas": 556
     },
     "chapters": {
-      "words": 5539,
-      "chars": 31575,
-      "ideas": 500
+      "words": 5626,
+      "chars": 31961,
+      "ideas": 536
     }
   }
 }
