@@ -8,7 +8,7 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2019-10-22T00:00:00.000Z",
       "contentType": "poetry",
-      "edition": "beletrie",
+      "edition": "poezie",
       "publisherShort": "mkp"
     },
     "elements": {
@@ -25,18 +25,19 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nmlpverse\nmlpverse1",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpdopispodpisi",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev\nmlptirazpodnazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "decimy_posledni_rok_001.md",
@@ -96,8 +97,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Decimy (1992–1995)"
+            "title": "Decimy (1992–1995)",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pěvec"
+            "title": "Pěvec",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rožně"
+            "title": "Rožně",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Mezi námi"
+            "title": "Mezi námi",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poslední služba"
+            "title": "Poslední služba",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Život je"
+            "title": "Život je",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nedělní odpoledne po kopané"
+            "title": "Nedělní odpoledne po kopané",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Drobné spory"
+            "title": "Drobné spory",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Okno"
+            "title": "Okno",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hon"
+            "title": "Hon",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_016.md",
@@ -239,8 +240,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hebkost let minulých"
+            "title": "Hebkost let minulých",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_017.md",
@@ -252,8 +253,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ty"
+            "title": "Ty",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_018.md",
@@ -265,8 +266,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pusté město, pustý sad"
+            "title": "Pusté město, pustý sad",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_019.md",
@@ -278,8 +279,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Mezi námi — Lisabon"
+            "title": "Mezi námi — Lisabon",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_020.md",
@@ -291,8 +292,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tvá píseň"
+            "title": "Tvá píseň",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_021.md",
@@ -304,8 +305,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Herna Úsvit"
+            "title": "Herna Úsvit",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_022.md",
@@ -317,8 +318,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Starej trik s chrámem panny Rejčky"
+            "title": "Starej trik s chrámem panny Rejčky",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_023.md",
@@ -330,8 +331,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tvá perspektiva"
+            "title": "Tvá perspektiva",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_024.md",
@@ -343,8 +344,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Noční hovory"
+            "title": "Noční hovory",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_025.md",
@@ -356,8 +357,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Výroky"
+            "title": "Výroky",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_026.md",
@@ -369,8 +370,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen"
+            "title": "Sen",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_027.md",
@@ -382,8 +383,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_028.md",
@@ -395,8 +396,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Budoucí něha"
+            "title": "Budoucí něha",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_029.md",
@@ -408,8 +409,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Čaj o páté"
+            "title": "Čaj o páté",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_030.md",
@@ -421,8 +422,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Konec léta na rybím trhu"
+            "title": "Konec léta na rybím trhu",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_031.md",
@@ -434,8 +435,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hromádka v lebce mé…"
+            "title": "Hromádka v lebce mé…",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_032.md",
@@ -447,8 +448,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_033.md",
@@ -460,8 +461,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_034.md",
@@ -473,8 +474,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nocturno"
+            "title": "Nocturno",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_035.md",
@@ -486,8 +487,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_036.md",
@@ -499,8 +500,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Decimy (Bonus tracks)"
+            "title": "Decimy (Bonus tracks)",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_037.md",
@@ -512,8 +513,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_038.md",
@@ -525,8 +526,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Doupě literátů"
+            "title": "Doupě literátů",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_039.md",
@@ -538,8 +539,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "* * *"
+            "title": "* * *",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_040.md",
@@ -551,8 +552,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sobotní ráno"
+            "title": "Sobotní ráno",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_041.md",
@@ -564,8 +565,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dopis č. 47"
+            "title": "Dopis č. 47",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_042.md",
@@ -577,8 +578,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poslední rok (1991–1992)"
+            "title": "Poslední rok (1991–1992)",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_043.md",
@@ -746,8 +747,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Italské intermezzo"
+            "title": "Italské intermezzo",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_057.md",
@@ -975,8 +976,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Epilog, po letech"
+            "title": "Epilog, po letech",
+            "children": []
           },
           {
             "filename": "decimy_posledni_rok_076.md",
@@ -1026,8 +1027,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -1604,6 +1604,6 @@
       "user": "books-are-next",
       "repo": "reiner-decimy"
     },
-    "generatedAt": 1654948782825
+    "generatedAt": 1656325602487
   }
 }
