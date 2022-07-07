@@ -123,7 +123,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "* * *",
+            "title": "\* \* \*",
             "children": []
           },
           {
@@ -383,7 +383,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "* * *",
+            "title": "\* \* \*",
             "children": []
           },
           {
@@ -448,7 +448,7 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "title": "* * *",
+            "title": "\* \* \*",
             "children": []
           },
           {
@@ -1078,7 +1078,7 @@
         "xhtml": "decimy_posledni_rok_006.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "\* \* \*",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_007.md",
         "xhtml": "decimy_posledni_rok_007.html"
@@ -1198,7 +1198,7 @@
         "xhtml": "decimy_posledni_rok_026.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "\* \* \*",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_027.md",
         "xhtml": "decimy_posledni_rok_027.html"
@@ -1228,7 +1228,7 @@
         "xhtml": "decimy_posledni_rok_031.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "\* \* \*",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_032.md",
         "xhtml": "decimy_posledni_rok_032.html"
