@@ -31,7 +31,7 @@ tocBase:
         title: Pěvec
         hiddenTitle: false
       - link: decimy_posledni_rok_007.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_008.html
         title: Rožně
@@ -91,7 +91,7 @@ tocBase:
         title: Sen
         hiddenTitle: false
       - link: decimy_posledni_rok_027.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_028.html
         title: Budoucí něha
@@ -106,28 +106,28 @@ tocBase:
         title: "Hromádka v\_lebce mé…"
         hiddenTitle: false
       - link: decimy_posledni_rok_032.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_033.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_034.html
         title: Nocturno
         hiddenTitle: false
       - link: decimy_posledni_rok_035.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_036.html
         title: Decimy (Bonus tracks)
         hiddenTitle: false
       - link: decimy_posledni_rok_037.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_038.html
         title: Doupě literátů
         hiddenTitle: false
       - link: decimy_posledni_rok_039.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: decimy_posledni_rok_040.html
         title: Sobotní ráno
