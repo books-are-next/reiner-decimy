@@ -20,7 +20,7 @@ readingOrder:
   - decimy_posledni_rok_042.html
   - decimy_posledni_rok_056.html
   - decimy_posledni_rok_075.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
