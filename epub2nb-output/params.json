@@ -67,7 +67,7 @@
             "filename": "decimy_posledni_rok_003.md",
             "xhtml": "decimy_posledni_rok_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -79,7 +79,7 @@
             "filename": "decimy_posledni_rok_004.md",
             "xhtml": "decimy_posledni_rok_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1019,7 +1019,7 @@
             "filename": "decimy_posledni_rok_079.md",
             "xhtml": "decimy_posledni_rok_079.html",
             "id": 78,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": true,
@@ -1603,6 +1603,6 @@
       "user": "books-are-next",
       "repo": "reiner-decimy"
     },
-    "generatedAt": 1656326907264
+    "generatedAt": 1657182390519
   }
 }

@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-660235c",
-  "revision": "660235c",
+  "identifier": "reiner-decimy-posledni-rok-ffd8c68",
+  "revision": "ffd8c68",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -17,11 +17,11 @@
     "decimy_posledni_rok_042.html",
     "decimy_posledni_rok_056.html",
     "decimy_posledni_rok_075.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 10:50:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656327017774
+    "date": "Thu Jul 07 2022 08:37:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183049502
   },
   "documents": [
     {
@@ -372,12 +372,12 @@
       "role": "chapter",
       "order": 5,
       "prev": "decimy_posledni_rok_056.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "EPILOG, PO LETECH",
+          "name": "EPILOG, PO LETECH",
           "id": null,
           "children": []
         }
@@ -385,11 +385,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 872,
+      "chars": 871,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "decimy_posledni_rok_075.html",
       "next": null,
@@ -407,7 +407,7 @@
   "totals": {
     "all": {
       "words": 5768,
-      "chars": 32875,
+      "chars": 32874,
       "ideas": 556
     },
     "chapters": {
