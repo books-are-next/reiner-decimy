@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-d5fca78",
-  "revision": "d5fca78",
+  "identifier": "reiner-decimy-posledni-rok-6005a03",
+  "revision": "6005a03",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:27:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186070064
+    "date": "Thu Jul 21 2022 14:47:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414843161
   },
   "documents": [
     {
@@ -387,7 +387,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 871,
+      "chars": 872,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -407,7 +407,7 @@
   "totals": {
     "all": {
       "words": 5768,
-      "chars": 32874,
+      "chars": 32875,
       "ideas": 556
     },
     "chapters": {
