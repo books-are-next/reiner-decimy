@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-f7bd50b",
-  "revision": "f7bd50b",
+  "identifier": "reiner-decimy-posledni-rok-550522a",
+  "revision": "550522a",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:33:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487204904
+    "date": "Sat Oct 01 2022 16:03:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640195373
   },
   "documents": [
     {
