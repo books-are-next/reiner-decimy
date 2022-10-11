@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Sobotní ráno
 contentType: poetry
 ---
 
 <section>
-
-## Sobotní ráno
 
 _K. B._
 

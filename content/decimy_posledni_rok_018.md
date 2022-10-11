@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Pusté město, pustý sad
 contentType: poetry
 ---
 
 <section>
-
-## Pusté město, pustý sad
 
 _J. L._
 

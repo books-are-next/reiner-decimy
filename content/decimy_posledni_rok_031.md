@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "Hromádka v\_lebce mé…"
 contentType: poetry
 ---
 
 <section>
-
-## Hromádka v lebce mé…
 
 _Jiřině Kristové_
 

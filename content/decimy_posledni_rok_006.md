@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Pěvec
 contentType: poetry
 ---
 
 <section>
-
-## Pěvec
 
 Hosty své večerní odvádí do ticha,  
 vězte však: není to nikterak snadné.  

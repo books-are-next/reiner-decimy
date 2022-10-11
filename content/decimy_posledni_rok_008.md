@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Rožně
 contentType: poetry
 ---
 
 <section>
-
-## Rožně
 
 Obléknu kabát, vyjdu z bytu,  
 venku je chladno, ale jde to.  

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 _Kamile Bělunkové_
 

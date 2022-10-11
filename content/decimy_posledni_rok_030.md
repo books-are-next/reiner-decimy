@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Konec léta na rybím trhu
 contentType: poetry
 ---
 
 <section>
-
-## Konec léta na rybím trhu
 
 Mrská léta brouk v louži trav a stromů,  
 rybí ale trh nevyveden z míry. Neb jesti ďas,  

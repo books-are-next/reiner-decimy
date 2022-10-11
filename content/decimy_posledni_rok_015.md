@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Hon
 contentType: poetry
 ---
 
 <section>
-
-## Hon
 
 _Petře Michaličkové_
 

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Myslím zas na kořínky  
 obalené váčky slepené hlíny —  

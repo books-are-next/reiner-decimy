@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Okno
 contentType: poetry
 ---
 
 <section>
-
-## Okno
 
 Ta stará vypadá pořád celkem mladě.  
 Sukni si převléká, chystá se domů.  

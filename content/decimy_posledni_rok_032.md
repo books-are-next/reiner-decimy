@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Přijel jsem ráno, a jsem tu na zapřenou.  
 Neví to Kamila, Petra ani Ina.  

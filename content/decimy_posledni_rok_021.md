@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Herna Úsvit
 contentType: poetry
 ---
 
 <section>
-
-## Herna Úsvit
 
 _Simoně Cahové_
 

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Světla vozu, hučivé tření nočních pneumatik o asfalt.  
 Nade mnou hrad Bítov, tisíc let rozpuštěných v půdě,  

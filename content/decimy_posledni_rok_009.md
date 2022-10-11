@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Mezi námi
 contentType: poetry
 ---
 
 <section>
-
-## Mezi námi
 
 _Jitce Lit_
 

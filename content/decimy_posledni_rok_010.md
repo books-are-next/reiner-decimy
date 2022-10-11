@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Poslední služba
 contentType: poetry
 ---
 
 <section>
-
-## Poslední služba
 
 _J. L._
 

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Sen
 contentType: poetry
 ---
 
 <section>
-
-## Sen
 
 Bouchly dveře. Odešla Nostalgie —  
 a už mi nevystrojí, jak dříve vystrojila.  

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Doupě literátů
 contentType: poetry
 ---
 
 <section>
-
-## Doupě literátů
 
 Choval se galantně jako _Pán prstenů_,  
 polibek na krajky a lehká úklona.  

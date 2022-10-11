@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Noční hovory
 contentType: poetry
 ---
 
 <section>
-
-## Noční hovory
 
 Dopil jsem vavřince, polkl sliny sladké.  
 Měsíc plul pomalu ve tvém vlhkém žlábku.  

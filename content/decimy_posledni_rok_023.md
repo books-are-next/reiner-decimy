@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Tvá perspektiva
 contentType: poetry
 ---
 
 <section>
-
-## Tvá perspektiva
 
 _Ivanu Blatnému_
 
