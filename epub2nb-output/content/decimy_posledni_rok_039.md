@@ -1,11 +1,9 @@
 ---
-title: ''
+title: '* * *'
 contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Musím se zmínit o dráze této střely:
 

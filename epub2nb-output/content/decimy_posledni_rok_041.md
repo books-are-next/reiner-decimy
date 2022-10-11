@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Dopis č\. 47
 contentType: poetry
 ---
 
 <section>
-
-## Dopis č. 47
 
 _K. B._
 

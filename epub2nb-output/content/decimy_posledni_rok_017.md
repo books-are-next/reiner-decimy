@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Ty
 contentType: poetry
 ---
 
 <section>
-
-## Ty
 
 _J. L._
 

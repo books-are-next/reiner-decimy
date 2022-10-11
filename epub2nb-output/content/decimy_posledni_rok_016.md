@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Hebkost let minulých
 contentType: poetry
 ---
 
 <section>
-
-## Hebkost let minulých
 
 _Mirce Havlíkové_
 

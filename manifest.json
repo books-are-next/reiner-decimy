@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-995969e",
-  "revision": "995969e",
+  "identifier": "reiner-decimy-posledni-rok-8e766f5",
+  "revision": "8e766f5",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 11 2022 08:36:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665477403020
+    "date": "Tue Oct 11 2022 08:42:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665477771192
   },
   "documents": [
     {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Pěvec",
       "file": "decimy_posledni_rok_006.html",
       "words": 63,
       "chars": 338,
@@ -105,22 +105,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pěvec",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pěvec",
-              "id": "pěvec",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_007.html",
       "words": 74,
       "chars": 403,
@@ -133,22 +125,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "heading",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Rožně",
       "file": "decimy_posledni_rok_008.html",
       "words": 57,
       "chars": 297,
@@ -161,22 +145,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Rožně",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Rožně",
-              "id": "rožně",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Mezi námi",
       "file": "decimy_posledni_rok_009.html",
       "words": 52,
       "chars": 270,
@@ -189,22 +165,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mezi námi",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Mezi námi",
-              "id": "mezi-námi",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Poslední služba",
       "file": "decimy_posledni_rok_010.html",
       "words": 71,
       "chars": 367,
@@ -217,22 +185,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Poslední služba",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Poslední služba",
-              "id": "poslední-služba",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Život je",
       "file": "decimy_posledni_rok_011.html",
       "words": 76,
       "chars": 403,
@@ -245,22 +205,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Život je",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Život je",
-              "id": "život-je",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Nedělní odpoledne po kopané",
       "file": "decimy_posledni_rok_012.html",
       "words": 56,
       "chars": 330,
@@ -273,22 +225,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nedělní odpoledne po kopané",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Nedělní odpoledne po kopané",
-              "id": "nedělní-odpoledne-ponbspkopané",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Drobné spory",
       "file": "decimy_posledni_rok_013.html",
       "words": 61,
       "chars": 314,
@@ -301,22 +245,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Drobné spory",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Drobné spory",
-              "id": "drobné-spory",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Okno",
       "file": "decimy_posledni_rok_014.html",
       "words": 74,
       "chars": 354,
@@ -329,22 +265,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Okno",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Okno",
-              "id": "okno",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Hon",
       "file": "decimy_posledni_rok_015.html",
       "words": 71,
       "chars": 380,
@@ -357,22 +285,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hon",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hon",
-              "id": "hon",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Hebkost let minulých",
       "file": "decimy_posledni_rok_016.html",
       "words": 70,
       "chars": 393,
@@ -385,22 +305,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hebkost let minulých",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hebkost let minulých",
-              "id": "hebkost-let-minulých",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Ty",
       "file": "decimy_posledni_rok_017.html",
       "words": 69,
       "chars": 376,
@@ -413,22 +325,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ty",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ty",
-              "id": "ty",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Pusté město, pustý sad",
       "file": "decimy_posledni_rok_018.html",
       "words": 79,
       "chars": 438,
@@ -441,22 +345,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pusté město, pustý sad",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pusté město, pustý sad",
-              "id": "pusté-město-pustý-sad",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Mezi námi — Lisabon",
       "file": "decimy_posledni_rok_019.html",
       "words": 93,
       "chars": 504,
@@ -469,22 +365,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mezi námi — Lisabon",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Mezi námi — Lisabon",
-              "id": "mezi-námi-lisabon",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Tvá píseň",
       "file": "decimy_posledni_rok_020.html",
       "words": 84,
       "chars": 430,
@@ -497,22 +385,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tvá píseň",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Tvá píseň",
-              "id": "tvá-píseň",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Herna Úsvit",
       "file": "decimy_posledni_rok_021.html",
       "words": 70,
       "chars": 410,
@@ -525,26 +405,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Herna Úsvit",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Herna Úsvit",
-              "id": "herna-úsvit",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Starej trik s chrámem panny Rejčky",
       "file": "decimy_posledni_rok_022.html",
       "words": 79,
-      "chars": 411,
-      "ideas": 12,
+      "chars": 412,
+      "ideas": 11,
       "role": "chapter",
       "order": 18,
       "prev": "decimy_posledni_rok_021.html",
@@ -553,22 +425,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Starej trik s chrámem panny Rejčky",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Starej trik s chrámem",
-              "id": "starej-trik-schrámem",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Tvá perspektiva",
       "file": "decimy_posledni_rok_023.html",
       "words": 77,
       "chars": 395,
@@ -581,22 +445,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tvá perspektiva",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Tvá perspektiva",
-              "id": "tvá-perspektiva",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Noční hovory",
       "file": "decimy_posledni_rok_024.html",
       "words": 67,
       "chars": 383,
@@ -609,22 +465,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Noční hovory",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Noční hovory",
-              "id": "noční-hovory",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Výroky",
       "file": "decimy_posledni_rok_025.html",
       "words": 58,
       "chars": 332,
@@ -637,22 +485,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Výroky",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Výroky",
-              "id": "výroky",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Sen",
       "file": "decimy_posledni_rok_026.html",
       "words": 55,
       "chars": 328,
@@ -665,22 +505,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sen",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Sen",
-              "id": "sen",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_027.html",
       "words": 54,
       "chars": 273,
@@ -693,22 +525,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "heading",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Budoucí něha",
       "file": "decimy_posledni_rok_028.html",
       "words": 57,
       "chars": 309,
@@ -721,22 +545,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Budoucí něha",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Budoucí něha",
-              "id": "budoucí-něha",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Čaj o páté",
       "file": "decimy_posledni_rok_029.html",
       "words": 53,
       "chars": 279,
@@ -749,22 +565,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Čaj o páté",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Čaj o páté",
-              "id": "čaj-opáté",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Konec léta na rybím trhu",
       "file": "decimy_posledni_rok_030.html",
       "words": 77,
       "chars": 433,
@@ -777,22 +585,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Konec léta na rybím trhu",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Konec léta na rybím trhu",
-              "id": "konec-léta-nanbsprybím-trhu",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Hromádka v lebce mé…",
       "file": "decimy_posledni_rok_031.html",
       "words": 65,
       "chars": 408,
@@ -805,22 +605,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hromádka v lebce mé…",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Hromádka v lebce mé…",
-              "id": "hromádka-vlebce-mé",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_032.html",
       "words": 65,
       "chars": 351,
@@ -833,22 +625,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "heading",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_033.html",
       "words": 78,
       "chars": 493,
@@ -861,22 +645,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Nocturno",
       "file": "decimy_posledni_rok_034.html",
       "words": 67,
       "chars": 355,
@@ -889,22 +665,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nocturno",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Nocturno",
-              "id": "nocturno",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_035.html",
       "words": 65,
       "chars": 354,
@@ -917,17 +685,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -952,7 +712,7 @@
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_037.html",
       "words": 55,
       "chars": 282,
@@ -965,22 +725,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Doupě literátů",
       "file": "decimy_posledni_rok_038.html",
       "words": 64,
       "chars": 336,
@@ -993,22 +745,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Doupě literátů",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Doupě literátů",
-              "id": "doupě-literátů",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "* * *",
       "file": "decimy_posledni_rok_039.html",
       "words": 79,
       "chars": 400,
@@ -1021,22 +765,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "* * *",
-              "id": "--",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Sobotní ráno",
       "file": "decimy_posledni_rok_040.html",
       "words": 74,
       "chars": 400,
@@ -1049,22 +785,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sobotní ráno",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Sobotní ráno",
-              "id": "sobotní-ráno",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Decimy; Poslední rok",
+      "title": "Dopis č. 47",
       "file": "decimy_posledni_rok_041.html",
       "words": 74,
       "chars": 393,
@@ -1077,17 +805,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dopis č. 47",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Dopis č. 47",
-              "id": "dopis-č-47",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1175,13 +895,13 @@
   "totals": {
     "all": {
       "words": 5767,
-      "chars": 32876,
-      "ideas": 555
+      "chars": 32877,
+      "ideas": 554
     },
     "chapters": {
       "words": 5626,
-      "chars": 31961,
-      "ideas": 536
+      "chars": 31962,
+      "ideas": 535
     }
   }
 }

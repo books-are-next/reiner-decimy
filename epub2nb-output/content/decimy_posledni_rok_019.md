@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "Mezi námi\_— Lisabon"
 contentType: poetry
 ---
 
 <section>
-
-## Mezi námi — Lisabon
 
 _J. L._
 

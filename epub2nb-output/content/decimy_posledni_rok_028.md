@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Budoucí něha
 contentType: poetry
 ---
 
 <section>
-
-## Budoucí něha
 
 Stejně se obracím, ač neměl bych:  
 tu kštice hořícího lesa,  

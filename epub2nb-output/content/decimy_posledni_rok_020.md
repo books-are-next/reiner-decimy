@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Tvá píseň
 contentType: poetry
 ---
 
 <section>
-
-## Tvá píseň
 
 Jsi-li shánčivý a přičinlivý, alespoň trochu,  
 pak jistě vesel vrátíš se mi z vřavy.  

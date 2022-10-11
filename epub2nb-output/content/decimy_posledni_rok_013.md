@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Drobné spory
 contentType: poetry
 ---
 
 <section>
-
-## Drobné spory
 
 _Mé múze_
 

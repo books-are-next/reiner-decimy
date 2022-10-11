@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Život je
 contentType: poetry
 ---
 
 <section>
-
-## Život je
 
 _K. B._
 
