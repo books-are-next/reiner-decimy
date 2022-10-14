@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   edition: poezie
   publisherShort: mkp
+  isbn: 978-80-274-2825-0
 readingOrder:
   - promo.html
   - decimy_posledni_rok_005.html
